@@ -1,6 +1,6 @@
 # Hệ Thống Quan Trắc Môi Trường Nước IoT
 
-Đây là một ứng dụng web dashboard hiện đại để theo dõi và phân tích dữ liệu quan trắc môi trường nước theo thời gian thực từ các cảm biến IoT. Hệ thống được thiết kế với giao diện trực quan, dễ sử dụng và tích hợp trợ lý AI thông minh để cung cấp các phân tích chuyên sâu.
+Đây là một ứng dụng web dashboard hiện đại để theo dõi và phân tích dữ liệu quan trắc môi trường nước theo thời gian thực từ các cảm biến IoT.
 
 ## Tính năng chính
 
