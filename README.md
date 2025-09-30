@@ -24,6 +24,7 @@
 - **Thông tin chi tiết:** Nhấp vào một trạm trên bản đồ để xem thông tin tóm tắt về các chỉ số mới nhất.
 
 ### 4. Trợ lý AI (AI Assistant)
+<img width="1390" height="677" alt="image" src="https://github.com/user-attachments/assets/63a44085-326e-4d64-a0f7-c343cf0315e9" />
 
 - **Phân tích dữ liệu thông minh:** Tích hợp trợ lý AI sử dụng mô hình ngôn ngữ lớn để trả lời các câu hỏi của người dùng về dữ liệu quan trắc.
 - **Hỏi đáp bằng ngôn ngữ tự nhiên:** Người dùng có thể đặt câu hỏi như "Tình hình chất lượng nước ở Sông Tô Lịch thế nào?" hoặc "So sánh độ pH giữa Hồ Tây và Hồ Hoàn Kiếm".
