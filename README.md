@@ -20,7 +20,7 @@
 - **Lọc theo trạm:** Lựa chọn trạm cụ thể để phân tích sâu hơn về lịch sử dữ liệu của trạm đó.
 
 ### 3. Bản đồ Trạm (Sensor Map)
-![Uploading 11.png…]()
+<img width="959" height="466" alt="11" src="https://github.com/user-attachments/assets/e58c57d4-b8ab-4734-920e-71d2e65d820c" />
 
 - **Trực quan hóa vị trí:** Hiển thị tất cả các trạm cảm biến trên một bản đồ tương tác.
 - **Mã màu trạng thái:** Mỗi trạm được đánh dấu bằng màu sắc tương ứng với chất lượng nước hiện tại, giúp nhận diện nhanh các khu vực đang gặp vấn đề.
