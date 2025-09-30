@@ -1,0 +1,5 @@
+
+{
+  "name": "Hệ Thống Quan Trắc Môi Trường Nước IoT",
+  "description": "Một ứng dụng web dashboard để theo dõi và phân tích dữ liệu quan trắc môi trường nước theo thời gian thực từ các cảm biến IoT, tích hợp trợ lý AI để phân tích dữ liệu chuyên sâu."
+}
